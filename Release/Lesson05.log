@@ -1,0 +1,4 @@
+﻿  Demo.cpp
+D:\Kuliah\Semester 9\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(50,2): error C2065: 'movement': undeclared identifier
+D:\Kuliah\Semester 9\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(50,13): error C2065: 'movement': undeclared identifier
+D:\Kuliah\Semester 9\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(50,27): error C2143: syntax error: missing ';' before 'glm::vec3'
